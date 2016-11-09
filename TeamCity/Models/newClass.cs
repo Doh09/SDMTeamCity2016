@@ -5,8 +5,13 @@ using System.Web;
 
 namespace TeamCity.Models
 {
+
     public class newClass
     {
-        string bleh = "";
+        public string getStringBleh()
+        {
+            return "Bleh";
+        }
     }
+
 }
