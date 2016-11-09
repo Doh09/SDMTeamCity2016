@@ -7,5 +7,6 @@ namespace TeamCity.Models
 {
     public class newClass
     {
+        string bleh = "";
     }
 }
